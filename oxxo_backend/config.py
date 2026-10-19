@@ -1,0 +1,1 @@
+MONGO_URI = "mongodb+srv://alexanderdce023_db_user:Admin12345@clusteradce.kv70twi.mongodb.net/oxxo_db?retryWrites=true&w=majority"
